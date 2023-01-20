@@ -26,7 +26,7 @@ require_once("system/ui/ui.php");
                 <i class="fa-solid fa-arrow-left"></i>
                 <span class="tituloPagina"></span>
             </a>
-            <a href="editarContato.php?idContato="<?php echo lerDadosContato($_GET["idContato"], "idContato")?> class="mr-3"><i class="fa-solid fa-pen text-white"></i></a>
+            <a href="editarContato.php?idContato=<?php echo lerDadosContato($_GET["idContato"], "idContato")?>" class="mr-3"><i class="fa-solid fa-pen text-white"></i></a>
         </nav>
         <br>
         <hr>
