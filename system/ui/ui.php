@@ -1,6 +1,6 @@
 <?php
-require_once("../Agenda/system/config/Conexao.php");
-require_once("../Agenda/system/funcoes/componestes.php");
+require_once("../Agenda_PHP_1/system/config/Conexao.php");
+require_once("../Agenda_PHP_1/system/funcoes/componestes.php");
 
 function listViewContatos()
 {
