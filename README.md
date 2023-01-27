@@ -7,12 +7,14 @@
 
 > (Desafio Grupo Logos) - Agenda Eletrônica
 <br>
-```
 # Criar uma Agenda Eletrônica
+
+```
    1. gravar informações; (nome, telefone e endereço);
    2. consultar/listar informações;
    3. alterar informações;
 ```
+
 ### ✔Funcionalidades
 O projeto possui as seguintes funcionalidades.:
 
@@ -30,7 +32,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux>`.
 * Servidor Local instalado e configurado `<Xampp>`.
 
-## 📟 Preparando o ambiente < Promobit >
+## 📟 Preparando o ambiente < Agenda Eletronica >
 
 Para instalar o < Agenda Eletronica >, siga estas etapas:
 
