@@ -24,6 +24,8 @@ O projeto possui as seguintes funcionalidades.:
 - Edição de Contato
 3. 📎 Lista
 - Lista de Contato
+4. 📎 Excluir
+- Excluir Contato
 
 ## 💻 Pré-requisitos para instalação do sistema
 
