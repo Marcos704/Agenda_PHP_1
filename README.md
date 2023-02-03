@@ -5,47 +5,44 @@
 <small>@Marcos704</small>
 </div>
 
-> (Desafio Grupo Logos) - Agenda Eletrônica
 <br>
-### ✔Criar uma Agenda Eletrônica
-> (Requisitos)
+
+## ✔Criar uma Agenda Eletrônica
+
+> (Requisitos) - Aplicação
+
 ```
    1. Gravar informações; (nome, telefone e endereço);
    2. Consultar/listar informações;
    3. Alterar informações;
    4. Deletar informações;
 ```
-### ✔Funcionalidades
-O projeto possui as seguintes funcionalidades.:
+## ✔Funcionalidades
 
-1. 📎 Cadastro
-- Cadatro de Contato
-2. 📎 Edição
-- Edição de Contato
-3. 📎 Lista
-- Lista de Contato
-4. 📎 Excluir
-- Excluir Contato
+> (Funcionalidades) - Aplicação
 
+```
+1. Cadastrar Informações
+2. Consultar Informações
+3. Listar Informações
+4. Aleterar Informações
+5. Excluir Informações
+```
 ## 💻 Pré-requisitos para instalação do sistema
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente de `<Versão do php 8.0 ou +/ Última versão da base de dados  / Última vesão do sistema>`.
-* Você tem uma máquina `<Windows / Linux>`.
-* Servidor Local instalado e configurado `<Xampp>`.
-
-## 📟 Preparando o ambiente < Agenda Eletronica >
-
-Para instalar o < Agenda Eletronica >, siga estas etapas:
-
-Windows:
+> Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ```
-1. Baixe a nova versão do projeto no github;
-2. Baixe a última versão da base de dados no github;
-3. Tenha a última versão do servidor local Xampp instalada;
+1. Versão do php 8.0 ou +
+2. Última versão da base de dados
+3. Última vesão do sistema.
+
+4. Sistema Operacional Windows ou Linux
+5. Servidor Local 'XAMPP' ou qualquer outro de preferência
 ```
+
 ## 📟 Criação do banco de dados
-Para realizar os testes de sessão no < Agenda Eletronica >, siga estas etapas:
+
+> Siga os passos para criação do banco de dados:
 
 Banco de dados - SCRIPT:
 
@@ -93,28 +90,55 @@ ALTER TABLE `tbcontatos`
 COMMIT;
 
 ```
-## 📟 Configurações inicias
+📟 Configurações inicias
+> Antes de inicar o projeto, verifique as informações no arquivo de configurações
 ```
--- Antes de inicar o projeto, verifique o arquivo de configurações do projeto.
-   *Caminho 
-            system/config/config.php
-    *Verifique as variaveis
-        define("USUARIO", "suport"); 
-            -> Defina o nome de usuário de acesso ao banco de dados
-        define("SENHA", "swu@660031");
-            -> Defina o nome de senha de acesso ao banco de dados
+1. Caminho do arquivo de configurações:
+   system/config/config.php
+   
+2. Definir o usuário de acesso ao banco de dados
+   define("USUARIO", "{Usuario}");
+   
+3. Definir a senha de acesso ao banco de dados
+   define("SENHA", "{Senha}");
 ```
-## Prints do sistema
-<h4>Tela 01</h4>
-<img src="https://i.ibb.co/J7ZzmXt/Screenshot-1.png">
-<h4>Tela 02</h4>
-<img src="https://i.ibb.co/rFrKFGj/Screenshot-2.png>">
-<h4>Tela 03</h4>
-<img src="https://i.ibb.co/wM4Vt6T/Screenshot-3.png">
-<h4>Tela 04</h4>
-<img src="https://i.ibb.co/wLvzDD7/Screenshot-4.png">
+📟 Prints do sistema
+> Listar Informações
+<hr>
 
-## Demo
+<div align="center">
+<img src="https://i.ibb.co/J7ZzmXt/Screenshot-1.png">
+</div>
+
+> Criar Contato
+<hr>
+
+<div align="center">
+<img src="https://i.ibb.co/rFrKFGj/Screenshot-2.png>">
+</div>
+
+> Visualizar Contatos
+<hr>
+
+<div align="center">
+<img src="https://i.ibb.co/wM4Vt6T/Screenshot-3.png">
+</div>
+
+> Visualizar Informações
+<hr>
+
+<div align="center">
+<img src="https://i.ibb.co/wLvzDD7/Screenshot-4.png">
+</div>
+
+<hr>
+
+📟 Demo
+> Vídeo de apresentação do sistema
+
+<div align="center">
+   
 https://user-images.githubusercontent.com/57381889/215138397-61d96e81-b9bd-4cce-a3c3-32153746318d.mp4
 
+</div>
 
