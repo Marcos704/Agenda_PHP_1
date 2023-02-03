@@ -12,8 +12,11 @@
 > (Requisitos) - Aplicação
 
 ```
-   1. Gravar informações; (nome, telefone e endereço);
-   2. Consultar informações
+   1. Gravar informações; 
+      Nome
+      Telefone
+      Endereço
+   2. Consultar informações;
    3. Listar informações;
    4. Alterar informações;
    5. Deletar informações;
