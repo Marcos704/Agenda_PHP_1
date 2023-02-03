@@ -7,8 +7,8 @@
 
 > (Desafio Grupo Logos) - Agenda Eletrônica
 <br>
-# Criar uma Agenda Eletrônica
-
+### ✔Criar uma Agenda Eletrônica
+> (Requisitos)
 ```
    1. Gravar informações; (nome, telefone e endereço);
    2. Consultar/listar informações;
