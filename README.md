@@ -2,7 +2,7 @@
 <div align="center">
 <h1>Grupo Logos</h1>
 <h5>🛠Desafio proposto para a vaga de programador Júnior🛠</h5>
-<small>@Marcos704</small>
+<small>Marcos704</small>
 </div>
 
 <br>
