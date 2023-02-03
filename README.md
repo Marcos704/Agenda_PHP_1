@@ -10,9 +10,10 @@
 # Criar uma Agenda Eletrônica
 
 ```
-   1. gravar informações; (nome, telefone e endereço);
-   2. consultar/listar informações;
-   3. alterar informações;
+   1. Gravar informações; (nome, telefone e endereço);
+   2. Consultar/listar informações;
+   3. Alterar informações;
+   4. Deletar informações;
 ```
 ### ✔Funcionalidades
 O projeto possui as seguintes funcionalidades.:
